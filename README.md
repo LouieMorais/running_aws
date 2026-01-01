@@ -1,8 +1,11 @@
-# Running AWS Without Expensive Mistakes - Chapters' Step-by-Step Scripts
+# Running AWS Without Expensive Mistakes - Guide Outline
+
+**Author: Louie Morais**
+All rights reserved.
 
 ---
 
-- [Running AWS Without Expensive Mistakes - Chapters' Step-by-Step Scripts](#running-aws-without-expensive-mistakes---chapters-step-by-step-scripts)
+- [Running AWS Without Expensive Mistakes - Guide Outline](#running-aws-without-expensive-mistakes---guide-outline)
   - [Guide's Audience](#guides-audience)
   - [Guide's Objective](#guides-objective)
   - [Guide Outline](#guide-outline)
