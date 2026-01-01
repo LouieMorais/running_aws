@@ -49,7 +49,7 @@ This foundation prepares you for more advanced AWS learning and certification by
 |        | ✅ 1.5.4 Role Separation: Reduce the Impact of Mistakes                 |
 | ✅ 1.6 | The Small-Ops AWS Setup You’ll Build                                    |
 | ✅ 1.7 | How to Read This Guide                                                  |
-|        |                                                                         |
+|        | ␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥                  |
 
 | 2.  | Accounts, Regions, and the Minimum Safe AWS Setup                |
 | --- | ---------------------------------------------------------------- |
@@ -59,7 +59,7 @@ This foundation prepares you for more advanced AWS learning and certification by
 | 2.4 | Naming, Tagging, and Time-to-Live Conventions That Prevent Chaos |
 | 2.5 | Step-By-Step Scripts                                             |
 | 2.6 | Track Your Progress                                              |
-|     |                                                                  |
+|     | ␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥           |
 
 | 3.  | Safe Identity for Humans and Applications                      |
 | --- | -------------------------------------------------------------- |
@@ -71,7 +71,7 @@ This foundation prepares you for more advanced AWS learning and certification by
 | 3.6 | Lightweight Guardrails That Stop Accidents Before They Happen  |
 | 3.7 | Step-By-Step Scripts                                           |
 | 3.8 | Track Your Progress                                            |
-|     |                                                                |
+|     | ␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥         |
 
 | 4.  | Cost Controls That Make AWS Predictable                    |
 | --- | ---------------------------------------------------------- |
@@ -92,7 +92,7 @@ This foundation prepares you for more advanced AWS learning and certification by
 | 5.5 | Managing Secrets Safely With AWS Tools                     |
 | 5.6 | Step-By-Step Scripts                                       |
 | 5.7 | Track Your Progress                                        |
-|     |                                                            |
+|     | ␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥     |
 
 | 6.  | A Straightforward, Safe Developer Workflow                  |
 | --- | ----------------------------------------------------------- |
@@ -103,7 +103,7 @@ This foundation prepares you for more advanced AWS learning and certification by
 | 6.5 | Onboarding Yourself and Others to New Projects Smoothly     |
 | 6.5 | Step-By-Step Scripts                                        |
 | 6.6 | Track Your Progress                                         |
-|     |                                                             |
+|     | ␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥      |
 
 | 7.  | The Cost Kill-Switch: Your Safety Net for Unexpected Bills |
 | --- | ---------------------------------------------------------- |
@@ -113,7 +113,7 @@ This foundation prepares you for more advanced AWS learning and certification by
 | 7.4 | Manual “Panic Button” Steps When Something Feels Wrong     |
 | 7.5 | Step-By-Step Scripts                                       |
 | 7.6 | Track Your Progress                                        |
-|     |                                                            |
+|     | ␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥     |
 
 | 8.  | Operating Your Setup Day-to-Day                              |
 | --- | ------------------------------------------------------------ |
@@ -123,12 +123,12 @@ This foundation prepares you for more advanced AWS learning and certification by
 | 8.4 | When You Outgrow the Basics: What Comes Next                 |
 | 8.5 | Step-By-Step Scripts                                         |
 | 8.6 | Track Your Progress                                          |
-|     |                                                              |
+|     | ␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥       |
 
-| 9.  | Setup Progress Charts            |
-| --- | -------------------------------- |
-| 9.1 | Safe Zone Expansion Chart        |
-| 9.2 | Danger Zone Neutralisation Chart |
-|     |                                  |
+| 9.  | Setup Progress Charts                                  |
+| --- | ------------------------------------------------------ |
+| 9.1 | Safe Zone Expansion Chart                              |
+| 9.2 | Danger Zone Neutralisation Chart                       |
+|     | ␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥␥ |
 
 ---
